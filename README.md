@@ -24,7 +24,6 @@ Isso iniciará os contêineres do Keycloak e do PostgreSQL em segundo plano.
 
 [![Configuração do Nuxt](/readme/tutorial-nuxt.png)](https://youtu.be/ZrMLfAye2fU)
 
-https://youtu.be/ZrMLfAye2fU
 
 ## Executando o Aplicativo
 
