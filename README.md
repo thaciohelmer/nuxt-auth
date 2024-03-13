@@ -43,15 +43,3 @@ npm run dev # ou yarn dev
 
 Isso iniciará o servidor de desenvolvimento do Nuxt 3. Você pode acessar o aplicativo em seu navegador em `http://localhost:3000`.
 
-## Como Usar
-
-O aplicativo de teste de integração Nuxt 3 com autenticação via API do Keycloak fornece um ambiente de demonstração simples. Os usuários podem se inscrever, fazer login e visualizar conteúdo protegido.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
-
